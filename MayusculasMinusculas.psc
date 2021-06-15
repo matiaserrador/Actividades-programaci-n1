@@ -11,16 +11,16 @@ Proceso MayusculasMinusculas
 		
 	FinSi
 	si mensaje = 1 Entonces
-		Escribir "Usted pasÛ el mensaje a Mayusculas" , " - ",  Mayusculas(frase) ;
+		Escribir "Usted pas√≥ el mensaje a Mayusculas" , " - ",  Mayusculas(frase) ;
 	SiNo
 		Si mensaje = 2 Entonces
-			Escribir "Usted pasÛ el mensaje a Minusculas" , " - ",  Minusculas(frase) ;
+			Escribir "Usted pas√≥ el mensaje a Minusculas" , " - ",  Minusculas(frase) ;
 		FinSi
 		
 	FinSi
-	Si mensaje <= 3 o  mensaje = 0 Entonces
-			escribir  "Error, no seleccionÛ ninguna opciÛn valida." ;
-		FinSi
+	Si mensaje >= 3 o mensaje = 0 Entonces
+			escribir  "Error, no seleccion√≥ ninguna opci√≥n valida." ;
+	FinSi
 	
 
 FinProceso
