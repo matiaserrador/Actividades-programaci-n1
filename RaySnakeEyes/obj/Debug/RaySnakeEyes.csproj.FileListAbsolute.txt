@@ -1,0 +1,10 @@
+C:\Users\Matias\source\repos\RaySnakeEyes\RaySnakeEyes\bin\Debug\RaySnakeEyes.exe.config
+C:\Users\Matias\source\repos\RaySnakeEyes\RaySnakeEyes\bin\Debug\RaySnakeEyes.exe
+C:\Users\Matias\source\repos\RaySnakeEyes\RaySnakeEyes\bin\Debug\RaySnakeEyes.pdb
+C:\Users\Matias\source\repos\RaySnakeEyes\RaySnakeEyes\obj\Debug\RaySnakeEyes.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\RaySnakeEyes\RaySnakeEyes\obj\Debug\RaySnakeEyes.Form1.resources
+C:\Users\Matias\source\repos\RaySnakeEyes\RaySnakeEyes\obj\Debug\RaySnakeEyes.Properties.Resources.resources
+C:\Users\Matias\source\repos\RaySnakeEyes\RaySnakeEyes\obj\Debug\RaySnakeEyes.csproj.GenerateResource.cache
+C:\Users\Matias\source\repos\RaySnakeEyes\RaySnakeEyes\obj\Debug\RaySnakeEyes.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\RaySnakeEyes\RaySnakeEyes\obj\Debug\RaySnakeEyes.exe
+C:\Users\Matias\source\repos\RaySnakeEyes\RaySnakeEyes\obj\Debug\RaySnakeEyes.pdb
