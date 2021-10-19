@@ -1,0 +1,10 @@
+C:\Users\Matias\source\repos\TnT eXplodEdd\TnT eXplodEdd\bin\Debug\TnT eXplodEdd.exe.config
+C:\Users\Matias\source\repos\TnT eXplodEdd\TnT eXplodEdd\bin\Debug\TnT eXplodEdd.exe
+C:\Users\Matias\source\repos\TnT eXplodEdd\TnT eXplodEdd\bin\Debug\TnT eXplodEdd.pdb
+C:\Users\Matias\source\repos\TnT eXplodEdd\TnT eXplodEdd\obj\Debug\TnT eXplodEdd.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\TnT eXplodEdd\TnT eXplodEdd\obj\Debug\TnT_eXplodEdd.Form1.resources
+C:\Users\Matias\source\repos\TnT eXplodEdd\TnT eXplodEdd\obj\Debug\TnT_eXplodEdd.Properties.Resources.resources
+C:\Users\Matias\source\repos\TnT eXplodEdd\TnT eXplodEdd\obj\Debug\TnT eXplodEdd.csproj.GenerateResource.cache
+C:\Users\Matias\source\repos\TnT eXplodEdd\TnT eXplodEdd\obj\Debug\TnT eXplodEdd.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\TnT eXplodEdd\TnT eXplodEdd\obj\Debug\TnT eXplodEdd.exe
+C:\Users\Matias\source\repos\TnT eXplodEdd\TnT eXplodEdd\obj\Debug\TnT eXplodEdd.pdb
