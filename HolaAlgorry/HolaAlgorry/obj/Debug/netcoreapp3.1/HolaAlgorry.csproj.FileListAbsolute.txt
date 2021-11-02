@@ -1,0 +1,13 @@
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\bin\Debug\netcoreapp3.1\HolaAlgorry.exe
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\bin\Debug\netcoreapp3.1\HolaAlgorry.deps.json
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\bin\Debug\netcoreapp3.1\HolaAlgorry.runtimeconfig.json
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\bin\Debug\netcoreapp3.1\HolaAlgorry.runtimeconfig.dev.json
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\bin\Debug\netcoreapp3.1\HolaAlgorry.dll
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\bin\Debug\netcoreapp3.1\HolaAlgorry.pdb
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\obj\Debug\netcoreapp3.1\HolaAlgorry.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\obj\Debug\netcoreapp3.1\HolaAlgorry.AssemblyInfoInputs.cache
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\obj\Debug\netcoreapp3.1\HolaAlgorry.AssemblyInfo.cs
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\obj\Debug\netcoreapp3.1\HolaAlgorry.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\obj\Debug\netcoreapp3.1\HolaAlgorry.dll
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\obj\Debug\netcoreapp3.1\HolaAlgorry.pdb
+C:\Users\Matias\source\repos\HolaAlgorry\HolaAlgorry\obj\Debug\netcoreapp3.1\HolaAlgorry.genruntimeconfig.cache

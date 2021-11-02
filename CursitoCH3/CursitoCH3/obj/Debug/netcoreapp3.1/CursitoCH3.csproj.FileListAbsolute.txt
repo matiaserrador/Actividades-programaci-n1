@@ -1,0 +1,13 @@
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\bin\Debug\netcoreapp3.1\CursitoCH3.exe
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\bin\Debug\netcoreapp3.1\CursitoCH3.deps.json
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\bin\Debug\netcoreapp3.1\CursitoCH3.runtimeconfig.json
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\bin\Debug\netcoreapp3.1\CursitoCH3.runtimeconfig.dev.json
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\bin\Debug\netcoreapp3.1\CursitoCH3.dll
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\bin\Debug\netcoreapp3.1\CursitoCH3.pdb
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\obj\Debug\netcoreapp3.1\CursitoCH3.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\obj\Debug\netcoreapp3.1\CursitoCH3.AssemblyInfoInputs.cache
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\obj\Debug\netcoreapp3.1\CursitoCH3.AssemblyInfo.cs
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\obj\Debug\netcoreapp3.1\CursitoCH3.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\obj\Debug\netcoreapp3.1\CursitoCH3.dll
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\obj\Debug\netcoreapp3.1\CursitoCH3.pdb
+C:\Users\Matias\source\repos\CursitoCH3\CursitoCH3\obj\Debug\netcoreapp3.1\CursitoCH3.genruntimeconfig.cache

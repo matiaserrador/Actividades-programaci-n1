@@ -1,0 +1,13 @@
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\bin\Debug\netcoreapp3.1\Estructura Condicional IF.exe
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\bin\Debug\netcoreapp3.1\Estructura Condicional IF.deps.json
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\bin\Debug\netcoreapp3.1\Estructura Condicional IF.runtimeconfig.json
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\bin\Debug\netcoreapp3.1\Estructura Condicional IF.runtimeconfig.dev.json
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\bin\Debug\netcoreapp3.1\Estructura Condicional IF.dll
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\bin\Debug\netcoreapp3.1\Estructura Condicional IF.pdb
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\obj\Debug\netcoreapp3.1\Estructura Condicional IF.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\obj\Debug\netcoreapp3.1\Estructura Condicional IF.AssemblyInfoInputs.cache
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\obj\Debug\netcoreapp3.1\Estructura Condicional IF.AssemblyInfo.cs
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\obj\Debug\netcoreapp3.1\Estructura Condicional IF.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\obj\Debug\netcoreapp3.1\Estructura Condicional IF.dll
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\obj\Debug\netcoreapp3.1\Estructura Condicional IF.pdb
+C:\Users\Matias\source\repos\Estructura Condicional IF\Estructura Condicional IF\obj\Debug\netcoreapp3.1\Estructura Condicional IF.genruntimeconfig.cache

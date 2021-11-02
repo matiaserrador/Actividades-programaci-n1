@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CursitoCH3/1.0.0": {
+        "runtime": {
+          "CursitoCH3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursitoCH3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

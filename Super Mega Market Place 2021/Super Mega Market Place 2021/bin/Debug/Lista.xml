@@ -1,14 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Lista_de_Productos>
-    <ID>1</ID>
-    <Carnes>Chinchulin</Carnes>
-    <Precio_x0020_Carnes>20</Precio_x0020_Carnes>
-    <Lacteos>Leche</Lacteos>
-    <Precio_x0020_Lacteos>50</Precio_x0020_Lacteos>
-    <Frutas_x0020_y_x0020_Verduras>Anana</Frutas_x0020_y_x0020_Verduras>
-    <Precio_x0020_Frutas_x0020_y_x0020_Verduras>60</Precio_x0020_Frutas_x0020_y_x0020_Verduras>
+    <Codigo>1</Codigo>
+    <Carnes>Chorizo</Carnes>
+    <Precio_x0020_Carnes>90</Precio_x0020_Carnes>
+    <Lacteos>Yogurt de Frutilla</Lacteos>
+    <Precio_x0020_Lacteos>75</Precio_x0020_Lacteos>
+    <Frutas_x0020_y_x0020_Verduras>Naranja</Frutas_x0020_y_x0020_Verduras>
+    <Precio_x0020_Frutas_x0020_y_x0020_Verduras>50</Precio_x0020_Frutas_x0020_y_x0020_Verduras>
     <Varios>Aceite</Varios>
-    <Precio_x0020_Varios>40</Precio_x0020_Varios>
+    <Precio_x0020_Varios>70</Precio_x0020_Varios>
+  </Lista_de_Productos>
+  <Lista_de_Productos>
+    <Codigo>2</Codigo>
+    <Carnes>Entrecot</Carnes>
+    <Precio_x0020_Carnes>180</Precio_x0020_Carnes>
+    <Lacteos>Queso rallado</Lacteos>
+    <Precio_x0020_Lacteos>60</Precio_x0020_Lacteos>
+    <Frutas_x0020_y_x0020_Verduras>Sandia</Frutas_x0020_y_x0020_Verduras>
+    <Precio_x0020_Frutas_x0020_y_x0020_Verduras>150</Precio_x0020_Frutas_x0020_y_x0020_Verduras>
+    <Varios>Fideos Spaghuetti</Varios>
+    <Precio_x0020_Varios>120</Precio_x0020_Varios>
   </Lista_de_Productos>
 </DocumentElement>

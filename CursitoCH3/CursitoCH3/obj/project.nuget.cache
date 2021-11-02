@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "420B+6UNJN+CAuXa/1+mvpnLlRLt9KLKKBxL4Ya6f58lQ/7hwtuRXs/Gad5IgXuCNR1habmLEFNNqpBz1CAlKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matias\\source\\repos\\CursitoCH3\\CursitoCH3\\CursitoCH3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matias\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

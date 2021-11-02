@@ -1,0 +1,13 @@
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\bin\Debug\netcoreapp3.1\HolaAlgorry2.exe
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\bin\Debug\netcoreapp3.1\HolaAlgorry2.deps.json
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\bin\Debug\netcoreapp3.1\HolaAlgorry2.runtimeconfig.json
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\bin\Debug\netcoreapp3.1\HolaAlgorry2.runtimeconfig.dev.json
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\bin\Debug\netcoreapp3.1\HolaAlgorry2.dll
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\bin\Debug\netcoreapp3.1\HolaAlgorry2.pdb
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\obj\Debug\netcoreapp3.1\HolaAlgorry2.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\obj\Debug\netcoreapp3.1\HolaAlgorry2.AssemblyInfoInputs.cache
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\obj\Debug\netcoreapp3.1\HolaAlgorry2.AssemblyInfo.cs
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\obj\Debug\netcoreapp3.1\HolaAlgorry2.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\obj\Debug\netcoreapp3.1\HolaAlgorry2.dll
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\obj\Debug\netcoreapp3.1\HolaAlgorry2.pdb
+C:\Users\Matias\source\repos\HolaAlgorry2\HolaAlgorry2\obj\Debug\netcoreapp3.1\HolaAlgorry2.genruntimeconfig.cache

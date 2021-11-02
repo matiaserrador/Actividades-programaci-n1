@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OOJEBh48DB8iDqJJX+ZULOvnmAxJ+U03NJffMPoDiafZz5QhWbNB5Df+9ixuUV/xhRuotxbp8dZEMAhjhlLPTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matias\\source\\repos\\Estructura Condicional IF\\Estructura Condicional IF\\Estructura Condicional IF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matias\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\bin\Debug\netcoreapp3.1\Operador de asignación.exe
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\bin\Debug\netcoreapp3.1\Operador de asignación.deps.json
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\bin\Debug\netcoreapp3.1\Operador de asignación.runtimeconfig.json
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\bin\Debug\netcoreapp3.1\Operador de asignación.runtimeconfig.dev.json
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\bin\Debug\netcoreapp3.1\Operador de asignación.dll
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\bin\Debug\netcoreapp3.1\Operador de asignación.pdb
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\obj\Debug\netcoreapp3.1\Operador de asignación.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\obj\Debug\netcoreapp3.1\Operador de asignación.AssemblyInfoInputs.cache
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\obj\Debug\netcoreapp3.1\Operador de asignación.AssemblyInfo.cs
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\obj\Debug\netcoreapp3.1\Operador de asignación.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\obj\Debug\netcoreapp3.1\Operador de asignación.dll
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\obj\Debug\netcoreapp3.1\Operador de asignación.pdb
+C:\Users\Matias\source\repos\Operador de asignación\Operador de asignación\obj\Debug\netcoreapp3.1\Operador de asignación.genruntimeconfig.cache
