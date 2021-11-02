@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Lista_de_Productos>
+    <ID>1</ID>
+    <Carnes>Chinchulin</Carnes>
+    <Precio_x0020_Carnes>20</Precio_x0020_Carnes>
+    <Lacteos>Leche</Lacteos>
+    <Precio_x0020_Lacteos>50</Precio_x0020_Lacteos>
+    <Frutas_x0020_y_x0020_Verduras>Anana</Frutas_x0020_y_x0020_Verduras>
+    <Precio_x0020_Frutas_x0020_y_x0020_Verduras>60</Precio_x0020_Frutas_x0020_y_x0020_Verduras>
+    <Varios>Aceite</Varios>
+    <Precio_x0020_Varios>40</Precio_x0020_Varios>
+  </Lista_de_Productos>
+</DocumentElement>

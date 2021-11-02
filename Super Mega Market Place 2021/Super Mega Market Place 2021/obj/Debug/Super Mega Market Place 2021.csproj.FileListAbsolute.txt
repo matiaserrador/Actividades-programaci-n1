@@ -1,0 +1,20 @@
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super Mega Market Place 2021.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super_Mega_Market_Place_2021.Properties.Resources.resources
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super Mega Market Place 2021.csproj.GenerateResource.cache
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super Mega Market Place 2021.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\bin\Debug\Super Mega Market Place 2021.exe.config
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\bin\Debug\Super Mega Market Place 2021.exe
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\bin\Debug\Super Mega Market Place 2021.pdb
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super Mega Market Place 2021.exe
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super Mega Market Place 2021.pdb
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super_Mega_Market_Place_2021.SuperMegaMarketPlace.resources
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super Mega Market Place 2021.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super_Mega_Market_Place_2021.SuperMegaMarketPlace.resources
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super_Mega_Market_Place_2021.Properties.Resources.resources
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super Mega Market Place 2021.csproj.GenerateResource.cache
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super Mega Market Place 2021.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super Mega Market Place 2021.exe
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\Super Mega Market Place 2021\obj\Debug\Super Mega Market Place 2021.pdb
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\Super Mega Market Place 2021\bin\Debug\Super Mega Market Place 2021.exe.config
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\Super Mega Market Place 2021\bin\Debug\Super Mega Market Place 2021.exe
+C:\Users\Matias\source\repos\Super Mega Market Place 2021\Super Mega Market Place 2021\Super Mega Market Place 2021\bin\Debug\Super Mega Market Place 2021.pdb

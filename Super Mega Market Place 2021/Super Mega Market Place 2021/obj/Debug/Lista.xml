@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Lista_de_Productos>
+    <Codigo>1</Codigo>
+    <Carnes>Chorizo</Carnes>
+    <Precio_x0020_Carnes>50</Precio_x0020_Carnes>
+    <Lacteos>Yogurt</Lacteos>
+    <Precio_x0020_Lacteos>50</Precio_x0020_Lacteos>
+    <Frutas_x0020_y_x0020_Verduras>Peras</Frutas_x0020_y_x0020_Verduras>
+    <Precio_x0020_Frutas_x0020_y_x0020_Verduras>50</Precio_x0020_Frutas_x0020_y_x0020_Verduras>
+    <Varios>Aceite</Varios>
+    <Precio_x0020_Varios>50</Precio_x0020_Varios>
+  </Lista_de_Productos>
+  <Lista_de_Productos>
+    <Codigo>2</Codigo>
+    <Carnes>Costillar</Carnes>
+    <Precio_x0020_Carnes>2500</Precio_x0020_Carnes>
+    <Lacteos>Leche descremada</Lacteos>
+    <Precio_x0020_Lacteos>100</Precio_x0020_Lacteos>
+    <Frutas_x0020_y_x0020_Verduras>Papas</Frutas_x0020_y_x0020_Verduras>
+    <Precio_x0020_Frutas_x0020_y_x0020_Verduras>50</Precio_x0020_Frutas_x0020_y_x0020_Verduras>
+    <Varios>Harina 0000</Varios>
+    <Precio_x0020_Varios>60</Precio_x0020_Varios>
+  </Lista_de_Productos>
+</DocumentElement>
