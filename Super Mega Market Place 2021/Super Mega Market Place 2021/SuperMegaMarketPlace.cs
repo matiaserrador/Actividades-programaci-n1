@@ -65,6 +65,10 @@ namespace Super_Mega_Market_Place_2021
         {
         }
 
+        private void textBoxCarnesPrecio_TextChanged(object sender, EventArgs e)
+        {
+        }
+
         //private void redimension()
         //{
 

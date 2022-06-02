@@ -140,6 +140,7 @@ namespace Super_Mega_Market_Place_2021
             this.textBoxCarnesPrecio.Name = "textBoxCarnesPrecio";
             this.textBoxCarnesPrecio.Size = new System.Drawing.Size(157, 20);
             this.textBoxCarnesPrecio.TabIndex = 14;
+            this.textBoxCarnesPrecio.TextChanged += new System.EventHandler(this.textBoxCarnesPrecio_TextChanged);
             // 
             // textBoxLactosPrecio
             // 
