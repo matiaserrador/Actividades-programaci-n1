@@ -111,6 +111,7 @@ namespace Super_Mega_Market_Place_2021
             this.textBoxCarnes.Name = "textBoxCarnes";
             this.textBoxCarnes.Size = new System.Drawing.Size(157, 20);
             this.textBoxCarnes.TabIndex = 9;
+            this.textBoxCarnes.TextChanged += new System.EventHandler(this.textBoxCarnes_TextChanged);
             // 
             // textBoxFoV
             // 

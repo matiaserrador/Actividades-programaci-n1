@@ -46,7 +46,6 @@ namespace Super_Mega_Market_Place_2021
 
         private void label1_Click(object sender, EventArgs e)
         {
-
         }
 
         private void btSalir_Click(object sender, EventArgs e)
@@ -56,12 +55,14 @@ namespace Super_Mega_Market_Place_2021
 
         private void perrito_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
         }
 
         private void SuperMegaMarketPlace_Load(object sender, EventArgs e)
         {
+        }
 
+        private void textBoxCarnes_TextChanged(object sender, EventArgs e)
+        {
         }
 
         //private void redimension()
